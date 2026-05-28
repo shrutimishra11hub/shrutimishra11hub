@@ -45,18 +45,21 @@ solving problems and building practical understanding.
 - Focused on building real understanding  
 
 ---
-
-<h2>My GitHub Stats</h2>
+## My GitHub Stats
 
 <p align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=radical&hide_border=true"/>
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=shrutimishra11hub&theme=radical&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img width="500" src="https://streak-stats.demolab.com?user=shrutimishra11hub&theme=radical&hide_border=true"/>
-</p>
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
 ---
 
 <h2>Let's Connect</h2>
