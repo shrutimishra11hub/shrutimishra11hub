@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2028,%202026,%2009_40_14%20PM.png?raw=true" width="100%">
+  <img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2029,%202026,%2001_45_18%20AM.png?raw=true">
 </p>
 
 <div align="center">
