@@ -4,9 +4,6 @@
 
 <div align="center">
 
-# Hi, I'm Shruti
-
-### A Cybersecurity Learner
 
 </div>
 
