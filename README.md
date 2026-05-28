@@ -48,19 +48,39 @@ solving problems and building practical understanding.
 ## My GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=shrutimishra11hub&theme=radical&hide_border=true"/>
-
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=radical&hide_border=true"/>
+<img width="420" src="https://streak-stats.demolab.com?user=shrutimishra11hub&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=radical&hide_border=true"/>
+<br>
+
+## Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/shrutimishra11hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shruti-mishra-0655a3321">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mshruti324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
----
+
+<br>
+
+<p align="center">
+<i>Open to learning, collaborating and growing together ✨</i>
+</p>
 
 <h2>Let's Connect</h2>
 
