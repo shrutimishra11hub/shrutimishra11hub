@@ -1,15 +1,20 @@
 <p align="center">
-<img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2028,%202026,%2009_40_14%20PM.png?raw=true" width="100%" height="260"/>
+  <img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2028,%202026,%2009_40_14%20PM.png?raw=true" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#ff69b4;">Shruti</span></h1>
-<h3 align="center">A Cybersecurity Learner</h3>
+<div align="center">
+
+# Hi, I'm Shruti
+
+### A Cybersecurity Learner
+
+</div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shrutimishra11hub&style=for-the-badge&color=ff69b4"/>
-<img src="https://img.shields.io/github/followers/shrutimishra11hub?style=for-the-badge&color=c85eff"/>
+<img src="https://img.shields.io/badge/Views-13-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Followers-0-9b59ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Learning-Everyday-ff69b4?style=flat-square"/>
 </p>
----
 
 <p align="center">
 
@@ -19,16 +24,8 @@ I enjoy understanding how systems work, where they can break,
 and how we can make them secure.
 
 Currently learning and building hands-on skills in  
-security testing, labs and practical concepts.
+security testing, ethical hacking and more.
 
-</p>
-
----
-
-<h2 align="center">Technology Stack 💻</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,html,css,js"/>
 </p>
 
 <p align="center">
