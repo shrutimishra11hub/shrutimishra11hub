@@ -1,36 +1,46 @@
-
-<h1 align="center">Hi, I'm Shruti</h1>
-<h3 align="center">Cybersecurity • Security Testing • Vulnerability Research</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1f6f4a&height=220&section=header&text=Hi,%20I'm%20Shruti&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Learning%20Cybersecurity%20•%20Exploring%20Security%20•%20Understanding%20Systems&descAlignY=58" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity;Security+Testing;Vulnerability+Research;Building+Hands-on+Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=550&lines=Learner+by+choice;Curious+about+how+systems+work;Exploring+security+step+by+step;Building+through+practice" />
 </p>
 
 ---
 
 ## About Me
 
-Cybersecurity enthusiast exploring how systems work, where vulnerabilities exist, and how they can be secured.
+A curious learner exploring cybersecurity and security concepts through practice, labs and hands-on learning.
 
-- Learning cybersecurity and ethical hacking  
-- Exploring vulnerability research  
-- Building hands-on security skills  
+- Learning cybersecurity step by step  
+- Exploring tools and security concepts  
+- Practicing through labs and challenges  
 - Interested in web and system security  
+- Focused on understanding, not showing off  
 
 ---
 
-## Tools & Technologies
+## Tools I Use & Explore
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash" />
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark" />
-<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,html,css,js" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/CyberChef-0D1117?style=for-the-badge&logoColor=3FB950"/>
+
 </p>
 
 ---
@@ -38,16 +48,30 @@ Cybersecurity enthusiast exploring how systems work, where vulnerabilities exist
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=github_dark" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutimishra11hub&theme=github-dark-blue" height="170" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrutimishra11hub&show_icons=true&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950"/>
+<img height="170" src="https://streak-stats.demolab.com?user=shrutimishra11hub&theme=github-dark&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutimishra11hub&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+<a href="https://github.com/shrutimishra11hub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-Learning • Testing • Securing
+<img src="https://komarev.com/ghpvc/?username=shrutimishra11hub&style=for-the-badge&color=3FB950"/>
+</p>
+
+<p align="center">
+Learning • Exploring • Growing
 </p>
