@@ -1,12 +1,14 @@
 <p align="center">
-<img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2028,%202026,%2009_40_14%20PM.png?raw=true" width="100%"/>
+<img src="https://github.com/shrutimishra11hub/shrutimishra11hub/blob/main/ChatGPT%20Image%20May%2028,%202026,%2009_40_14%20PM.png?raw=true" width="100%" height="260"/>
 </p>
+
+<h1 align="center">Hi, I'm <span style="color:#ff69b4;">Shruti</span></h1>
+<h3 align="center">A Cybersecurity Learner</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shrutimishra11hub&style=for-the-badge&color=ff69b4"/>
-<img src="https://img.shields.io/github/followers/shrutimishra11hub?style=for-the-badge&color=ff69b4"/>
+<img src="https://img.shields.io/github/followers/shrutimishra11hub?style=for-the-badge&color=c85eff"/>
 </p>
-
 ---
 
 <p align="center">
